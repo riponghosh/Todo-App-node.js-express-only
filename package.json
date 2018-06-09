@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/riponghosh/Todo-App-node.js/issues"
   },
-  "homepage": "https://github.com/riponghosh/Todo-App-node.js#readme"
+  "homepage": "https://github.com/riponghosh/Todo-App-node.js#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
