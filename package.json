@@ -1,0 +1,19 @@
+{
+  "name": "todo-app-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riponghosh/Todo-App-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riponghosh/Todo-App-node.js/issues"
+  },
+  "homepage": "https://github.com/riponghosh/Todo-App-node.js#readme"
+}
